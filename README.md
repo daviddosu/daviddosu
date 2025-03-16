@@ -1,6 +1,6 @@
 ### Hi, I'm David Dosu! 👋
 
-🚀 **Information Theorist | Entrepreneur | Researcher at CERN**  
+🚀 **Information Theorist | Fmr. Particle Physicist | Entrepreneur | Researcher at CERN**  
 💡 Passionate about **algorithm development, quantum computing, and global education innovation**  
 🎯 On a mission to **exponentially increase Africa's contribution to global innovation**  
 
